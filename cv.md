@@ -23,3 +23,9 @@ function spEng(sentence){
   }
 }
 ```
+# Experience
+I don't have any programming experience yet.
+# Education
+Graduated from the Belarusian National Technical University in 2018, majoring in civil engineering.
+# English
+A1 (now improving to A2, then to B1)
