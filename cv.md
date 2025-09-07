@@ -6,3 +6,20 @@
 * Email: mnaumik96@mail.ru
 * GitHub: [mnaumik](https://github.com/mnaumik)
 * Discord: maksim_33024 
+# About me
+I am 29 years old. In 2018, I graduated from the Belarusian National Technical University, majoring in civil engineering. Now I also work in the construction industry. But I really want to get programming skills, so I will make every effort to successfully complete the course at RS School.
+# Skills
+* Python (basic knowledge) 
+* HTML and CSS (basic knowledge)
+* JS (basic knowledge)
+* Git
+# Code Example
+```
+function spEng(sentence){
+  if (sentence.toUpperCase().includes("English".toUpperCase())) {
+    return true;
+  } else {
+    return false;
+  }
+}
+```
